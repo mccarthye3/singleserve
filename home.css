@@ -1,3 +1,31 @@
+/* header */
+h1{
+  font-family: font-family: 'Cinzel', serif;
+}
+h1{
+  text-align: center;
+}
+
+.container-fluid1{
+  background-color: #ccc;
+  padding: 1em;
+  margin:1em, 1em;
+}
+body, html {
+    height: 100%;
+}
+
+/* The hero image */
+.hero-image {
+  background-image:url("https://wallpaperaccess.com/full/171587.jpg");
+
+/* Set a specific height */
+height: 20%;
+
+/* Position */
+  background-position: center;
+  position: relative;
+}
 
 /* Place text in the middle of the image */
 .hero-text {
