@@ -3,6 +3,14 @@ h1{
   font-family: 'Cinzel', serif;
   text-align: center;
 }
+h4{
+  font-family:'Cinzel', serif;
+  text-align:center;
+  padding:1em;
+  margin:1em,1em;
+  color:white;
+  line-height:80%;
+}
 
 .container-fluid1{
   background-color: #ccc;
