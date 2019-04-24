@@ -38,11 +38,11 @@ height: 20%;
 /*   navigation */
 p{
 font-family: 'Cinzel', serif;  
-color:black
+color:white;
 }
 p:hover,
 p:focus{
-    color:#ccc;
+    color:#orange;
 }
 
 
