@@ -6,7 +6,7 @@ h1{
 h4{
   font-family:'Cinzel', serif;
   text-align:center;
-  padding:1em;
+  padding:5em;
   margin:3em,3em;
   color:white;
 }
@@ -98,11 +98,4 @@ img{
     position:fixed;
     bottom:0px;
     left:50%
-}
-
-.container-fluid3{
-background-color: rgba(255, 255, 255, 0.6);
-border-radius: 30px;
-padding: 10px;
-margin: 10px;
 }
