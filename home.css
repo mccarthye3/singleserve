@@ -36,6 +36,13 @@ height: 20%;
 }
 
 /*   navigation */
+p{
+color:black
+}
+p:hover,
+p:focus{
+    color:#ccc;
+}
 
 
 /*body*/
