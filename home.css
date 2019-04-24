@@ -101,3 +101,8 @@ img{
     left:50%;
 }
 
+.container-fluid2{
+  background-color: #ccc;
+  padding: 3em;
+  margin:1em, 1em;
+}
