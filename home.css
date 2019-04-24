@@ -6,9 +6,10 @@ h1{
 h4{
   font-family:'Cinzel', serif;
   text-align:center;
-  padding:5em;
-  margin:3em,3em;
+  padding:1em;
+  margin:1em,1em;
   color:white;
+  line-height:80%;
 }
 
 .container-fluid1{
@@ -97,5 +98,5 @@ img{
   .fix{
     position:fixed;
     bottom:0px;
-    left:50%
+    left:50%;
 }
